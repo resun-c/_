@@ -25,3 +25,4 @@
 ## making:
 
   - [ ] Unix V7 tar.c
+  - [ ] Auth0 Django Auth Backend
