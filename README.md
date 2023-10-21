@@ -12,6 +12,7 @@
   - [ ] The Python Standard Library - Python 3.12.0 documentation
   - [ ] The Python Language Reference - Python 3.12.0 documentation
   - [ ] Humble Pi - Matt Parker
+  - [ ] Pro Git - Ben Straub and Scott Chacon
 
 ### humanoid things
 
