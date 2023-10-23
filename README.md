@@ -13,6 +13,14 @@
   - [ ] The Python Language Reference - Python 3.12.0 documentation
   - [ ] Humble Pi - Matt Parker
   - [ ] Pro Git - Ben Straub and Scott Chacon
+  - [ ] Python Test Module
+  - [ ] Cryptography
+      - [ ] rfc7515: JSON Web Signature (JWS)
+      - [ ] rfc7516: JSON Web Encryption (JWE)
+      - [ ] rfc7517: JSON Web Key (JWK)
+      - [ ] rfc7518: JSON Web Algorithms (JWA)
+      - [ ] rfc7519: JSON Web Token (JWT)
+      - [ ] rfc7520:  Examples of Protecting Content Using JSON Object Signing and Encryption (JOSE)
 
 ### humanoid things
 
