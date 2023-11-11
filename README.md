@@ -4,7 +4,7 @@
 
 ### computing
 
-  - [ ] Unix Programming Environment - bwk & rob
+  - [ ] Unix Programming Environment - bwk & rob  `125/357`
   - [ ] The C Programming Language 2nd k&r
   - [ ] Oh Pascal! - Doug Cooper
   - [ ] Calculus and Analytic Geometry - George Thomas
@@ -24,7 +24,7 @@
 
 ### humanoid things
 
-  - [ ] The Infinite Game - Simon Sinek
+  - [ ] The Infinite Game - Simon Sinek  `52/272`
   - [ ] Don't Make Me Think - Steve Krug
   - [ ] Where Wizards Stay Up Late - Katie Hafner
   - [ ] Start With Why - Simon Sinek
