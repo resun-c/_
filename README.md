@@ -4,7 +4,7 @@
 
 ### computing
 
-  - [ ] Unix Programming Environment - bwk & rob  `125/357`
+  - [ ] Unix Programming Environment - bwk & rob  `128/357`
   - [ ] The C Programming Language 2nd k&r
   - [ ] Oh Pascal! - Doug Cooper
   - [ ] Calculus and Analytic Geometry - George Thomas
