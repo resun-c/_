@@ -5,8 +5,8 @@
 ### computing
 
   - [ ] Unix Programming Environment - bwk & rob  `128/357`
-      - [ ] PROTECTION OF DATA FLE CONTENTS - dmr
-          - [ ] Dynamic Protection Structures - Butler W Lampson
+      - [ ] PROTECTION OF DATA FLE CONTENTS - dmr `3/8`
+          - [ ] Dynamic Protection Structures - Butler W Lampson `3/12`
       - [ ] Wikipedia: History of Unix. [Link](https://en.wikipedia.org/wiki/History_of_Unix)
   - [ ] The C Programming Language 2nd k&r
   - [ ] Oh Pascal! - Doug Cooper
