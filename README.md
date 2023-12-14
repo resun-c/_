@@ -5,16 +5,19 @@
 ### computing
 
   - [ ] Unix Programming Environment - bwk & rob  `128/357`
-  - [ ] Wikipedia: History of Unix. [Link](https://en.wikipedia.org/wiki/History_of_Unix)
+      - [ ] PROTECTION OF DATA FLE CONTENTS - dmr
+          - [ ] Dynamic Protection Structures - Butler W Lampson
+      - [ ] Wikipedia: History of Unix. [Link](https://en.wikipedia.org/wiki/History_of_Unix)
   - [ ] The C Programming Language 2nd k&r
   - [ ] Oh Pascal! - Doug Cooper
   - [ ] Calculus and Analytic Geometry - George Thomas
-  - [x] The Python Tutorial - Python 3.12.0 documentation
-  - [ ] The Python Standard Library - Python 3.12.0 documentation
-  - [ ] The Python Language Reference - Python 3.12.0 documentation
+  - [ ] Python Manual
+      - [x] The Python Tutorial - Python 3.12.0 documentation
+      - [ ] The Python Standard Library - Python 3.12.0 documentation
+      - [ ] The Python Language Reference - Python 3.12.0 documentation
+      - [ ] Python Test Module
   - [ ] Humble Pi - Matt Parker
   - [ ] Pro Git - Ben Straub and Scott Chacon
-  - [ ] Python Test Module
   - [ ] Cryptography
       - [ ] rfc7515: JSON Web Signature (JWS)
       - [ ] rfc7516: JSON Web Encryption (JWE)
@@ -25,7 +28,7 @@
 
 ### humanoid things
 
-  - [ ] The Infinite Game - Simon Sinek  `70/272`
+  - [ ] The Infinite Game - Simon Sinek  `89/272`
   - [ ] Don't Make Me Think - Steve Krug
   - [ ] Where Wizards Stay Up Late - Katie Hafner
   - [ ] Start With Why - Simon Sinek
