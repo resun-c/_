@@ -1,8 +1,6 @@
 # _
 
-## learning:
-
-### computing
+## Computing
 
   - [ ] Unix Programming Environment - bwk & rob  `128/357`
       - [x] PROTECTION OF DATA FLE CONTENTS - dmr
@@ -26,9 +24,9 @@
       - [ ] rfc7519: JSON Web Token (JWT)
       - [ ] rfc7520:  Examples of Protecting Content Using JSON Object Signing and Encryption (JOSE)
 
-### humanoid things
+## humanoid things
 
-  - [ ] The Infinite Game - Simon Sinek  `89/272`
+  - [ ] The Infinite Game - Simon Sinek  `93/272`
   - [ ] Don't Make Me Think - Steve Krug
   - [ ] Where Wizards Stay Up Late - Katie Hafner
   - [ ] Start With Why - Simon Sinek
