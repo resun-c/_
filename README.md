@@ -6,6 +6,7 @@
 
   - [ ] Unix Programming Environment - bwk & rob  `128/357`
       - [ ] PROTECTION OF DATA FLE CONTENTS - dmr `4/8`
+          - [ ] Pulse, Digital, and Switching Waveforms - Jacob Millman, Herbert Taub
       - [ ] Wikipedia: History of Unix. [Link](https://en.wikipedia.org/wiki/History_of_Unix)
   - [ ] The C Programming Language 2nd k&r
   - [ ] Oh Pascal! - Doug Cooper
