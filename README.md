@@ -2,9 +2,10 @@
 
 ## Computing
 
-  - [ ] Unix Programming Environment - bwk & rob  `128/357`
+  - [ ] Unix Programming Environment - bwk & rob  `131/357`
       - [x] PROTECTION OF DATA FLE CONTENTS - dmr
           - [ ] Pulse, Digital, and Switching Waveforms - Jacob Millman, Herbert Taub
+      - [ ] Computation and Computational Thinking - aho [Link](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=cee7c2f06129ef93cebb6637db3169335f3dde6b)
       - [ ] Wikipedia: History of Unix. [Link](https://en.wikipedia.org/wiki/History_of_Unix)
   - [ ] The C Programming Language 2nd k&r
   - [ ] Oh Pascal! - Doug Cooper
