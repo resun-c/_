@@ -2,7 +2,7 @@
 
 ## Computing
 
-  - [ ] Unix Programming Environment - bwk & rob  `131/357`
+  - [ ] Unix Programming Environment - bwk & rob  `135/357`
       - [x] PROTECTION OF DATA FLE CONTENTS - dmr
           - [ ] Pulse, Digital, and Switching Waveforms - Jacob Millman, Herbert Taub
       - [ ] Pattern matching in strings -aho [Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=gb2r2ssAAAAJ&cstart=20&pagesize=80&citft=1&email_for_op=resun.saif%40gmail.com&citation_for_view=gb2r2ssAAAAJ:dhFuZR0502QC)
