@@ -28,7 +28,7 @@
 
 ## humanoid things
 
-  - [ ] The Infinite Game - Simon Sinek  `93/272`
+  - [ ] The Infinite Game - Simon Sinek  `122/272`
   - [ ] Don't Make Me Think - Steve Krug
   - [ ] Where Wizards Stay Up Late - Katie Hafner
   - [ ] Start With Why - Simon Sinek
