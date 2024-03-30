@@ -38,4 +38,5 @@
 ## making:
 
   - [ ] Unix V7 tar.c
+  - [ ] You might try downloading QEMU and then bringing up xv6. It's UNIX/Version 6 running on a modern system, which is fixed for a modern compiler, etc. What's different? What's the same?   What is >>important<<?
   - [ ] Auth0 Django Auth Backend
