@@ -29,7 +29,7 @@
 ## humanoid things
 
   - [ ] The Infinite Game - Simon Sinek  `122/272`
-  - [ ] Don't Make Me Think - Steve Krug
+  - [ ] Good to Great and Built to Last
   - [ ] Where Wizards Stay Up Late - Katie Hafner
   - [ ] Start With Why - Simon Sinek
   - [ ] Leaders Eat Last - Simon Sinek
