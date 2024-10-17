@@ -19,7 +19,7 @@
       - [ ] The Python Language Reference - Python 3.12.0 documentation
       - [ ] Python Test Module
   - [ ] Humble Pi - Matt Parker
-  - [ ] Pro Git - Ben Straub and Scott Chacon
+  - [x] Pro Git - Ben Straub and Scott Chacon `incomplete`
   - [ ] Cryptography
       - [ ] rfc7515: JSON Web Signature (JWS)
       - [ ] rfc7516: JSON Web Encryption (JWE)
