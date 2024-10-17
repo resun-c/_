@@ -27,6 +27,8 @@
       - [ ] rfc7518: JSON Web Algorithms (JWA)
       - [ ] rfc7519: JSON Web Token (JWT)
       - [ ] rfc7520:  Examples of Protecting Content Using JSON Object Signing and Encryption (JOSE)
+  - [ ] SMTP
+      - [ ] rfc5321: Simple Mail Transfer Protocol
 
 ## humanoid things
 
